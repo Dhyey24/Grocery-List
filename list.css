@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(238, 193, 193);
+}
+header{
+    text-align: center;
+    font-size: 26px;
+}
+main section div h3{
+    text-align: center;
+    font-size: 20px;
+}
+main .pantry{
+    background-color: bisque;
+    display: flex;
+}
+main .canned{
+    background-color: grey;
+    padding: 0px 10px;
+    margin: 10px 20px 10px 0px;
+}
+main #dry{
+    background-color: grey;
+    padding: 0px 10px;
+    margin: 10px 20px 10px 0px;
+}
+main .freezer{
+    background-color: bisque;
+    display: flex;
+}
+main .viggies{
+    background-color: gray;
+    padding: 0px 10px;
+    margin: 10px 20px 10px 0px;
+}
+main #snacks{
+    background-color: gray;
+    padding: 0px 10px;
+    margin: 10px 20px 10px 0px;
+}
+img{
+    width: 200px;
+    height: 150px;
+}
