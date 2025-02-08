@@ -1,45 +1,77 @@
-body{
+body {
     background-color: rgb(238, 193, 193);
 }
-header{
+
+header h1 span{
+    background-color: bisque;
+    border-style: solid;
     text-align: center;
-    font-size: 26px;
+    margin: 0px 250px;
+    width: 350px;
+    display: inline-block;
+
+
 }
-main section div h3{
-    text-align: center;
+
+h2 span {
+    background-color: bisque;
+    border-style: solid;
+    width: 200px;
+    display: inline-block;
+    text-align: left;
+    padding: 10px 148px 10px 10px;
+}
+
+main section div h3 {
+    text-align: left;
     font-size: 20px;
 }
-main .pantry{
+
+main .pantry {
     /*background-color: bisque;*/
     display: flex;
 }
-main .canned{
+
+main .canned {
     background-color: grey;
     padding: 0px 10px;
     margin: 10px 20px 10px 0px;
+    width: 150px;
+    height: 175px;
 }
-main #dry{
+
+main #dry {
     background-color: grey;
     padding: 0px 10px;
     margin: 10px 20px 10px 0px;
+    width: 150px;
+    height: 175px;
 }
-main .freezer{
+
+main .freezer {
     /*background-color: bisque;*/
     display: flex;
 }
-main .viggies{
+
+main .viggies {
     background-color: gray;
     padding: 0px 10px;
     margin: 10px 20px 10px 0px;
+    width: 150px;
+    height: 175px;
 }
-main #snacks{
+
+main #snacks {
     background-color: gray;
     padding: 0px 10px;
     margin: 10px 20px 10px 0px;
+    width: 150px;
+    height: 175px;
 }
-img{
+
+img {
     display: flex;
-    height: 153px;
-    width: 200px;
+    height: 175px;
+    width: 225px;
     margin-top: 10px;
 }
